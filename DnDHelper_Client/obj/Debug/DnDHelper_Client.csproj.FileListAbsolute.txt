@@ -1,0 +1,9 @@
+C:\Users\CJ\source\repos\DnDHelper\DnDHelper_Client\bin\Debug\DnDHelper_Client.exe.config
+C:\Users\CJ\source\repos\DnDHelper\DnDHelper_Client\bin\Debug\DnDHelper_Client.exe
+C:\Users\CJ\source\repos\DnDHelper\DnDHelper_Client\bin\Debug\DnDHelper_Client.pdb
+C:\Users\CJ\source\repos\DnDHelper\DnDHelper_Client\obj\Debug\DnDHelper_Client.Form1.resources
+C:\Users\CJ\source\repos\DnDHelper\DnDHelper_Client\obj\Debug\DnDHelper_Client.Properties.Resources.resources
+C:\Users\CJ\source\repos\DnDHelper\DnDHelper_Client\obj\Debug\DnDHelper_Client.csproj.GenerateResource.cache
+C:\Users\CJ\source\repos\DnDHelper\DnDHelper_Client\obj\Debug\DnDHelper_Client.csproj.CoreCompileInputs.cache
+C:\Users\CJ\source\repos\DnDHelper\DnDHelper_Client\obj\Debug\DnDHelper_Client.exe
+C:\Users\CJ\source\repos\DnDHelper\DnDHelper_Client\obj\Debug\DnDHelper_Client.pdb
